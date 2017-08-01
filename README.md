@@ -2,6 +2,9 @@
 
 在该项目中，将对实验心理学中的典型现象——斯特鲁普效应展开调查。
 
+# 项目展示
+http://lilyalove.com/Psychological_phenomenon/psychological_phenomenon.pdf
+
 # 背景信息
 
 在一个Stroop（斯特鲁普）任务中，参与者得到了一列文字，每个文字都用一种油墨颜色展示。参与者的任务是将文字的打印颜色大声说出来。
